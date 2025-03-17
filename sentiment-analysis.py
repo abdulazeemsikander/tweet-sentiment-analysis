@@ -81,7 +81,7 @@ df['Day_of_Week'] = df['Timestamp'].dt.day_name()
 # %%
 df['Country']
 
-# %%
+# %%git 
 month_mapping = {
     1: 'Januari',
     2: 'Februari',
